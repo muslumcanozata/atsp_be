@@ -1,0 +1,6 @@
+asgiref==3.4.1
+cx_Oracle==8.2.1
+db-sqlite3==0.0.1
+Django==3.2.5
+djangorestframework==3.12.4
+djangorestframework-jwt==1.11.0
